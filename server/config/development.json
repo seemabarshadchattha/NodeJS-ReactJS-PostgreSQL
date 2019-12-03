@@ -1,0 +1,4 @@
+{
+  "port": 4000,
+  "dbURI": "postgres://postgres:admin@localhost:5432/database_users"
+}
